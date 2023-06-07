@@ -21,6 +21,11 @@ a {
     transition: .3s;
 }
 
+
+.imgscaled {
+    width: 15%;
+}
+
 a:hover,
 a:active,
 a:focus {
